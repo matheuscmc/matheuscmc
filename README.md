@@ -12,7 +12,7 @@
   
 </div><br/>
 
-## café and squirrels! 
+## coffee and squirrels! 
  <a href="https://www.youtube.com/channel/UCDc8Qc342WA-Odb4wrSZ_mw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheuscmcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-cavalcanti-a43995232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
